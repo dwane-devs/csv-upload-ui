@@ -6,9 +6,9 @@ What did I learn?
 - parsing package
 
 #TODO:
-- [] clean out bollerplate code
-- [] Add title
-- [] Add div for the drop zone
-- [] Add "papaparse"
+- [X] clean out bollerplate code
+- [X] Add title
+- [X] Add div for the drop zone
+- [X] Add "papaparse" -> npm install papaparse
 
 ![](starting-page.png)
