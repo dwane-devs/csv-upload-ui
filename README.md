@@ -9,3 +9,6 @@ What did I learn?
 - [] clean out bollerplate code
 - [] Add title
 - [] Add div for the drop zone
+- [] Add "papaparse"
+
+![](starting-page.png)
